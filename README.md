@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hello 👋🏼! My name is Ahmed 🎱. I do the following:
 
-<!--
-**8BallAhmed/8BallAhmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ DevOps\
+⚡ Microservices Architecture\
+⚡ API Development\
+⚡ Full-stack Development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I mainly work within the scope of **Backend and Infrastructure**, either by developing APIs using _**Express.js**_, building CI/CD Pipelines using _**Jenkins**_, or deploying Applications using Virtualization technologies such as _**Docker**_ on Cloud Services from service providers such as **Amazon Web Services**.
+
+
+I am currently a senior student in King Abdulaziz University, with an expected graduation date of June, 2022.
+
+You can find me on the following platforms 📫:
+
+⚡ [Linkedin](https://www.linkedin.com/in/ahmed-al-osaimi-03b6181ab/)\
+⚡ [Twitter](https://twitter.com/home)\
+⚡ [Email](mailto:ahmed.fcit88@gmail.com)
