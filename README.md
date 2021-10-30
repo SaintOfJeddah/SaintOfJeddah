@@ -14,5 +14,5 @@ I am currently a senior student in King Abdulaziz University, with an expected g
 You can find me on the following platforms 📫:
 
 ⚡ [Linkedin](https://www.linkedin.com/in/ahmed-al-osaimi-03b6181ab/)\
-⚡ [Twitter](https://twitter.com/home)\
+⚡ [Twitter](https://twitter.com/8BallAhmed)\
 ⚡ [Email](mailto:ahmed.fcit88@gmail.com)
