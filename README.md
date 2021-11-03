@@ -3,7 +3,7 @@
 ⚡ DevOps\
 ⚡ Microservices Architecture\
 ⚡ API Development\
-⚡ Full-stack Development
+⚡ Full-stack Development\
 ⚡ Batman (Part-time)
 
 
