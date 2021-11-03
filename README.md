@@ -4,6 +4,7 @@
 ⚡ Microservices Architecture\
 ⚡ API Development\
 ⚡ Full-stack Development
+⚡ Batman (Part-time)
 
 
 I mainly work within the scope of **Backend and Infrastructure**, either by developing APIs using _**Express.js**_, building CI/CD Pipelines using _**Jenkins**_, or deploying Applications using Virtualization technologies such as _**Docker**_ on Cloud Services from service providers such as **Amazon Web Services**.
