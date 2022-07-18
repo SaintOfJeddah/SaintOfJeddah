@@ -10,7 +10,7 @@
 I mainly work within the scope of **Backend and Infrastructure**, either by developing APIs using _**Express.js**_, building CI/CD Pipelines using _**Github Actions**_ and _**Flux**_, or deploying Applications using Virtualization technologies such as _**Docker**_, and container Orchestration systems such as _**Kubernetes**_ on Cloud Services from service providers such as **Amazon Web Services**.
 
 
-I am currently a DevOps Engineer at Resal, and a senior student in King Abdulaziz University, with an expected graduation date of June, 2022.
+I am currently an Applications Engineer at Tahakom.
 
 You can find me on the following platforms 📫:
 
