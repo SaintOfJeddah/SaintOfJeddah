@@ -1,13 +1,16 @@
-## Hello 👋🏼! My name is Ahmed 🎱. I do the following:
+## Hello 👋🏼! My name is Ahmed 🌇. I do the following:
 
-⚡ DevOps\
+⚡ Site Reliability Engineering\
 ⚡ Microservices Architecture\
-⚡ API Development\
-⚡ Full-stack Development\
-⚡ Batman (Part-time)
+⚡ Software Engineering\
+⚡ Sunset Chaser (Part-time)
 
 
-I mainly work within the scope of **Backend and Infrastructure**, either by developing APIs using _**Express.js**_, building CI/CD Pipelines using _**Github Actions**_ and _**Flux**_, or deploying Applications using Virtualization technologies such as _**Docker**_, and container Orchestration systems such as _**Kubernetes**_ on Cloud Services from service providers such as **Amazon Web Services**.
+I mainly work within the scope of **Infrastructure and Operations**: I build and install systems, I deploy software, I build pipelines, and I maintain Observability for maximum relability. I work with the following Technologies:
+
+⚡ Kubernetes [And all of its flavors]
+⚡ Containerization Software [Docker, Podman, etc...]
+⚡ Elastic Cloud Enterprise
 
 
 I am currently an Applications Engineer at Tahakom.
